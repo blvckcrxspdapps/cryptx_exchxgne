@@ -9,9 +9,12 @@
 			"subdivision": {
 				"code": "GP",
 				"name": "Gauteng"
-			}
+			},
+			"timezone": "Africa/Johannesburg",
+			"latitude": -26.3811,
+			"longitude": 27.8376
 		},
-		"timestamp": 1668252458574
+		"timestamp": 1668527890461
 	},
 	"siteId": "6d929021-f4a9-433f-bc57-aa52f241f964"
 }
